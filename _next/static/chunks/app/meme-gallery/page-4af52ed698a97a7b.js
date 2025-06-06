@@ -317,11 +317,11 @@
                         options: [
                           {
                             label: "Twitter",
-                            href: "https://x.com/babypepe_memes",
+                            href: "https://x.com/babypepe_boys",
                           },
                           {
                             label: "Telegram",
-                            href: "https://t.me/join_babypepe",
+                            href: "https://t.me/babypepe_boys",
                           },
                         ],
                       }),
@@ -330,7 +330,7 @@
                         options: [
                           {
                             label: "Uniswap",
-                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xsoon",
+                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
                           }
                         ],
                       }),
@@ -420,11 +420,11 @@
                         options: [
                           {
                             label: "Twitter",
-                            href: "https://x.com/babypepe_memes",
+                            href: "https://x.com/babypepe_boys",
                           },
                           {
                             label: "Telegram",
-                            href: "https://t.me/join_babypepe",
+                            href: "https://t.me/babypepe_boys",
                           },
                         ],
                       }),
@@ -433,7 +433,7 @@
                         options: [
                           {
                             label: "Uniswap",
-                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xsoon",
+                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
                             target: "_blank",
                             rel: "noopener noreferrer",
                           },

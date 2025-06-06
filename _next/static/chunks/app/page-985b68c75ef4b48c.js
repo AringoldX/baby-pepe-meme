@@ -203,11 +203,11 @@
                         options: [
                           {
                             label: "Twitter",
-                            href: "https://x.com/babypepe_memes",
+                            href: "https://x.com/babypepe_boys",
                           },
                           {
                             label: "Telegram",
-                            href: "https://t.me/join_babypepe",
+                            href: "https://t.me/babypepe_boys",
                           },
                         ],
                       }),
@@ -216,7 +216,7 @@
                         options: [
                           {
                             label: "Uniswap",
-                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xsoon",
+                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
                           }
                         ],
                       }),
@@ -306,11 +306,11 @@
                         options: [
                           {
                             label: "Twitter",
-                            href: "https://x.com/babypepe_memes",
+                            href: "https://x.com/babypepe_boys",
                           },
                           {
                             label: "Telegram",
-                            href: "https://t.me/join_babypepe",
+                            href: "https://t.me/babypepe_boys",
                           },
                         ],
                       }),
@@ -319,7 +319,7 @@
                         options: [
                           {
                             label: "Uniswap",
-                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xsoon",
+                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
                             target: "_blank",
                             rel: "noopener noreferrer",
                           },
@@ -642,7 +642,7 @@
               mt: { base: 2, md: 0 },
               children: [
                 (0, a.jsx)(u.Link, {
-                  href: "https://t.me/join_babypepe",
+                  href: "https://t.me/babypepe_boys",
                   isExternal: !0,
                   children: (0, a.jsx)(r.IconButton, {
                     icon: (0, a.jsx)(h.Ww5, { size: t }),
@@ -653,7 +653,7 @@
                   }),
                 }),
                 (0, a.jsx)(u.Link, {
-                  href: "https://x.com/babypepe_memes",
+                  href: "https://x.com/babypepe_boys",
                   isExternal: !0,
                   children: (0, a.jsx)(r.IconButton, {
                     icon: (0, a.jsx)(w.LCd, { size: t }),
@@ -664,7 +664,7 @@
                   }),
                 }),
                 (0, a.jsx)(u.Link, {
-                  href: "https://dexscreener.com/ethereum/0xsoon",
+                  href: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
                   isExternal: !0,
                   children: (0, a.jsx)(r.IconButton, {
                     "aria-label": "DexScreener",
@@ -680,7 +680,7 @@
                   }),
                 }),
                 (0, a.jsxs)(u.Link, {
-                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0xsoon",
+                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0x00000000000000000000000000000000000000",
                   isExternal: !0,
                   target: "_blank",
                   rel: "noopener noreferrer",
@@ -1020,7 +1020,7 @@
                     children: e
                       ? (0, a.jsx)("iframe", {
                           id: "uniswap-iframe",
-                          src: "https://app.uniswap.org/#/swap?outputCurrency=0xsoon&chain=mainnet",
+                          src: "https://app.uniswap.org/#/swap?outputCurrency=0x00000000000000000000000000000000000000&chain=mainnet",
                           width: "300px",
                           height: "510px",
                           style: {
@@ -1090,17 +1090,17 @@
           let e = (0, l.useMemo)(
               () => [
                 {
-                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0xsoon",
+                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0x00000000000000000000000000000000000000",
                   label: "DexTools",
                   logo: "/logos/dextools.svg",
                 },
                 {
-                  href: "https://dexscreener.com/ethereum/0xsoon",
+                  href: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
                   label: "DexScreener",
                   logo: "/logos/dexsxcreener.png",
                 },
                 {
-                  href: "https://t.me/join_babypepe",
+                  href: "https://t.me/babypepe_boys",
                   label: "Telegram",
                   logo: (0, a.jsx)(h.Ww5, {
                     size: 40,
@@ -1108,7 +1108,7 @@
                   }),
                 },
                 {
-                  href: "https://x.com/babypepe_memes",
+                  href: "https://x.com/babypepe_boys",
                   label: "X",
                   logo: (0, a.jsx)(w.LCd, {
                     size: 40,
@@ -1293,7 +1293,7 @@
                       fontFamily: "'SecondaryFont', sans-serif",
                       textShadow:
                         "0.5px 0.5px 0 black, -0.5px 0.5px 0 black, 0.5px -0.5px 0 black, -0.5px -0.5px 0 black",
-                      children: "0xsoon",
+                      children: "0x00000000000000000000000000000000000000",
                     }),
                   ],
                 }),
@@ -1589,7 +1589,7 @@
             mb: 12,
             children: [
               (0, a.jsx)(J.default, {
-                href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xsoon",
+                href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
                 passHref: !0,
                 children: (0, a.jsxs)(U.Button, {
                   backgroundColor: "rgba(50, 50, 50, 0.6)",
@@ -1622,7 +1622,7 @@
                 }),
               }),
               (0, a.jsx)(J.default, {
-                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xsoon",
+                href: "https://www.dextools.io/app/en/ether/pair-explorer/0x00000000000000000000000000000000000000",
                 passHref: !0,
                 children: (0, a.jsxs)(U.Button, {
                   backgroundColor: "rgba(50, 50, 50, 0.6)",
@@ -1748,7 +1748,7 @@
                 mt: 240,
                 children: (0, a.jsxs)(U.Button, {
                   as: "a",
-                  href: "https://t.me/join_babypepe",
+                  href: "https://t.me/babypepe_boys",
                   backgroundColor: "rgba(0, 0, 0, 0.5)",
                   color: "white",
                   width: "90%",
