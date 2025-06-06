@@ -821,7 +821,7 @@
                     alignItems: "center",
                     mt: 8,
                     children: [
-                      "Total Supply 1B",
+                      "Total Supply 420,690,000",
                       "0% Sell Tax",
                       "0% Buy Tax",
                       "Liquidity pool burnt",

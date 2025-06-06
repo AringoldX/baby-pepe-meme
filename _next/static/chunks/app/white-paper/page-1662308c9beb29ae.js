@@ -104,7 +104,7 @@
                   (0, i.jsx)("h3", { children: "Total Supply" }),
                   (0, i.jsx)("p", {
                     children: (0, i.jsx)("strong", {
-                      children: "420,690,000,000 Babypepe tokens",
+                      children: "420,690,000 Babypepe tokens",
                     }),
                   }),
                   (0, i.jsx)("h3", { children: "Initial Token Distribution" }),
