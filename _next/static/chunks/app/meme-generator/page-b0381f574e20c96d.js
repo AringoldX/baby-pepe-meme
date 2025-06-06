@@ -421,7 +421,7 @@
                         options: [
                           {
                             label: "Uniswap",
-                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
+                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x7cb0e3abcf61de77cec20d026f35618029479618",
                           }
                         ],
                       }),
@@ -524,7 +524,7 @@
                         options: [
                           {
                             label: "Uniswap",
-                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
+                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x7cb0e3abcf61de77cec20d026f35618029479618",
                             target: "_blank",
                             rel: "noopener noreferrer",
                           },
